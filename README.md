@@ -10,7 +10,7 @@ Now, I know what you're thinking: "How can someone who’s bad at physics be int
 
 Oh, and did I mention my dad was a physics professor? Yeah, so basically, I’m the black sheep of the family when it comes to anything involving formulas, but hey, I’m good with code! 🐑
 
-So, in the spirit of proving I can turn my love for physics (even if I'm bad at it) into something cool, I’ve decided to create this repo to track my **glorious** (and probably painful) journey in learning graphics programming in Java. The end goal? To create an awesome particle simulation and blow my last two brain cells in the process.
+So, in the spirit of proving I can turn my love for physics (even if I'm bad at it) into something cool, I’ve decided to create this repo to track my **glorious** (and probably painful) journey in learning graphics programming in Java. The end goal? To create an awesome particle simulation engine and blow my last two brain cells in the process.
 
 ## Why You Should Care 🚀
 
